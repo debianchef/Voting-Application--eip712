@@ -2,5 +2,8 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-
+private_keys = ["0x59c6995e998F97a5A0044966f094538b292f3912"]
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+
+
